@@ -87,6 +87,12 @@
       </li>
     </ul>
 
+    <ul>
+      <li>
+        <a href="https://blog.yancy.vip/openwrt/openwrt-netifd/" target="_blank" rel="noopener">openwrt learn</a>
+      </li>
+    </ul>
+
   </div>
     <!----------------------------------------------------------------------------------------->
 </div>

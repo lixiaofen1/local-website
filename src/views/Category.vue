@@ -1,5 +1,4 @@
 <template>
-    <HelloWorld msg="Welcome to LiYONG TEST Web"/>
     <div>
       This is Category....
     </div>
