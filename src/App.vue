@@ -21,7 +21,7 @@
         <router-link to="/HelloWorld">公司网站</router-link>
       </li>
       <li>
-        <router-link to="/category">英语</router-link>
+        <router-link to="/category">规划</router-link>
       </li>
     </ul>
     
