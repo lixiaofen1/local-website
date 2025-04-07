@@ -75,30 +75,55 @@
   <!----------------------------------------------------------------------------------------->
   <div class="column">
     <h1>便签贴</h1>
+    <!---------------------公司标签------------------->
     <ul>
       <li>
         <a href="https://cwmp-data-models.broadband-forum.org/tr-181-2-11-0.html#D.Device:2.Device.DHCPv4.Relay.Forwarding." target="_blank" rel="noopener">tr181标准表</a>
       </li>
-    </ul>
 
-        <ul>
       <li>
         <a href="https://exmail.qq.com/cgi-bin/frame_html?sid=toKjtWvlq0qhSwdg,7&sign_type=&r=aa1187e7700ef7f98a69ddba0be8bcb2" target="_blank" rel="noopener">企业邮箱</a>
       </li>
     </ul>
-
+    ------------------------------------------资源网站------------------------------------------
+    <!---------------------资源网站------------------->
     <ul>
       <li>
         <a href="https://blog.yancy.vip/openwrt/openwrt-netifd/" target="_blank" rel="noopener">openwrt learn</a>
       </li>
-    </ul>
 
-    <ul>
       <li>
         <a href="https://juejin.cn/" target="_blank" rel="noopener">掘金</a>
       </li>
+
+      <li>
+        <a href="https://www.52pojie.cn/portal.php" target="_blank" rel="noopener">吾爱破解</a>
+      </li>
+
+      <li>
+        <a href="https://blog.csdn.net/2301_80115097/article/details/133910936" target="_blank" rel="noopener">安全汇总</a>
+      </li>
+
+      <li>
+        <a href="https://www.freebuf.com/" target="_blank" rel="noopener">freebuf</a>
+      </li>
+
+      <li>
+        <a href="https://gitee.com/explore/new-tech?order=starred" target="_blank" rel="noopener">gitee</a>
+      </li>
     </ul>
 
+    ------------------------------------------英语网站------------------------------------------
+       <!-------------------英语网站------------------>
+    <ul>
+      <li>
+        <a href="https://qwerty.kaiyi.cool/" target="_blank" rel="noopener">english practice</a>
+      </li>
+    </ul>
+
+    <!---相关项目记录-->
+    
+    <!--https://gitee.com/ureport/ReportPlus-->
   </div>
     <!----------------------------------------------------------------------------------------->
 </div>
