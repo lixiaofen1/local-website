@@ -23,6 +23,14 @@
       <li>
         <router-link to="/category">规划</router-link>
       </li>
+
+      <li>
+        <router-link to="/LabelBar">侧边栏</router-link>
+      </li>
+
+      <li>
+        <router-link to="/EcomMom">Ecom</router-link>
+      </li>
     </ul>
     
     <router-view></router-view>

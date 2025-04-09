@@ -112,12 +112,29 @@
         <a href="https://gitee.com/explore/new-tech?order=starred" target="_blank" rel="noopener">gitee</a>
       </li>
     </ul>
+    
+    <ul>
+      <li>
+        <a href="https://www.urldiy.com/#nav7-0" target="_blank" rel="noopener">自址链</a>
+      </li>
 
+      <li>
+        <a href="https://learnku.com/vuejs?order=recent&l=y" target="_blank" rel="noopener">vue 技术论坛</a>
+      </li>
+    </ul>
     ------------------------------------------英语网站------------------------------------------
        <!-------------------英语网站------------------>
     <ul>
       <li>
         <a href="https://qwerty.kaiyi.cool/" target="_blank" rel="noopener">english practice</a>
+      </li>
+    </ul>
+    
+    ------------------------------------------AI网站------------------------------------------
+       <!-------------------AI网站------------------>
+    <ul>
+      <li>
+        <a href="https://91aitools.com/" target="_blank" rel="noopener">AI</a>
       </li>
     </ul>
 
