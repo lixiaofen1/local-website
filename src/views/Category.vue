@@ -76,6 +76,20 @@
       todo list:
       1、AI绘画不同特征的猫，进行开蛋的视频
 
+      学习tool:
+
+     [https://github.com/codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+
+ai工具集
+
+[https://ai-bot.cn/botgroup-chat/](https://ai-bot.cn/botgroup-chat/)
+
+bot相关：
+
+[https://github.com/MaiM-with-u/MaiBot?tab=readme-ov-file](https://github.com/MaiM-with-u/MaiBot?tab=readme-ov-file)
+
+
+
     </div>
   </template>
   <script>
