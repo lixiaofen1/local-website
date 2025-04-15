@@ -77,19 +77,35 @@
       1、AI绘画不同特征的猫，进行开蛋的视频
 
       学习tool:
+      [https://github.com/codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
 
-     [https://github.com/codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+    ai工具集：
+    [https://ai-bot.cn/botgroup-chat/](https://ai-bot.cn/botgroup-chat/)
 
-ai工具集
-
-[https://ai-bot.cn/botgroup-chat/](https://ai-bot.cn/botgroup-chat/)
-
-bot相关：
-
-[https://github.com/MaiM-with-u/MaiBot?tab=readme-ov-file](https://github.com/MaiM-with-u/MaiBot?tab=readme-ov-file)
+    bot相关：
+    [https://github.com/MaiM-with-u/MaiBot?tab=readme-ov-file](https://github.com/MaiM-with-u/MaiBot?tab=readme-ov-file)
 
 
+    组件资源
+    1、vant
+    vant-green
+    http://mui.ucmed.cn/#/zh-CN/skeleton
+    https://vant-ui.github.io/vant/#/zh-CN
 
+    社区：
+    https://juejin.cn/column/7417706799606120499
+
+      web3
+      1、https://blog.chainsafe.io/web3js/
+      2、官网
+      https://docs.web3js.org/
+      3、web3.py
+      https://github.com/WTFAcademy/WTF-web3py
+      4、live Code editor
+      <iframe width="100%" height="700px" src="https://stackblitz.com/edit/vitejs-vite-aksddx?embed=1&file=main.js&showSidebar=1"></iframe>
+      5、合约代码
+      https://etherscan.io/address/0x1f9840a85d5af5bf1d1762f925bdaddc4201f984#code
+      
     </div>
   </template>
   <script>
