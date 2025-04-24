@@ -105,7 +105,16 @@
       <iframe width="100%" height="700px" src="https://stackblitz.com/edit/vitejs-vite-aksddx?embed=1&file=main.js&showSidebar=1"></iframe>
       5、合约代码
       https://etherscan.io/address/0x1f9840a85d5af5bf1d1762f925bdaddc4201f984#code
+
+      6、登链社区
+      https://learnblockchain.cn/
+
+      语言学习：
+      https://blog.csdn.net/weixin_37988176/article/details/109416101?ops_request_misc=%257B%2522request%255Fid%2522%253A%25228e9b5e1647ce78af4a2cb193f42debf7%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=8e9b5e1647ce78af4a2cb193f42debf7&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-2-109416101-null-null.142^v102^pc_search_result_base4&utm_term=family%20guy&spm=1018.2226.3001.4187
+      1、好的igthub
+      https://github.com/Aishwarya-Rajasekaran
       
+
     </div>
   </template>
   <script>

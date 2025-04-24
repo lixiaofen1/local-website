@@ -128,6 +128,18 @@
       <li>
         <a href="https://qwerty.kaiyi.cool/" target="_blank" rel="noopener">english practice</a>
       </li>
+
+      <li>
+        <a href="https://medium.com/" target="_blank" rel="noopener">Medium</a>
+      </li>
+
+      <li>
+        <a href="www.muddywatersresearch.com" target="_blank" rel="noopener">浑水</a>
+      </li>
+
+      <li>
+        <a href="https://z-lib.id/categories" target="_blank" rel="noopener">Zlib</a>
+      </li>
     </ul>
     
     ------------------------------------------AI网站------------------------------------------
