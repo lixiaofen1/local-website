@@ -2,7 +2,11 @@
   <div class="container">
   <div class="column">
     <h1>账号信息</h1>
-    <h2>AVS 账号</h2>
+
+    <div class="section-header">
+        <h2>AVS 账号</h2>
+        <button @click="showAvsInfo = true" class="info-btn">inform</button>
+    </div>
     <p>用户名：SDMCtest</p>
     <p>密码：sdhSRd@5H4</p>
     <h2>Jenkins 账号</h2>
@@ -25,6 +29,18 @@
       <li>Administrator/sdmc</li>
     </ul>
   </div>
+
+        <!-- AVS信息弹窗 -->
+        <div v-if="showAvsInfo" class="modal">
+        <div class="modal-content">
+          <span class="close" @click="showAvsInfo = false">&times;</span>
+          <h3>AVS 账号详细信息</h3>
+          <p>http：http://192.168.150.100:10301/acs/</p>
+          <p>https：https://192.168.150.100:10302/acs/</p>
+          <!-- <p>服务器地址：3333</p>
+          <p>最后更新：2025-09-20</p> -->
+        </div>
+      </div>
 
 <!----------------------------------------------------------------------------------------->
   <div class="hello">
@@ -121,6 +137,10 @@
       <li>
         <a href="https://learnku.com/vuejs?order=recent&l=y" target="_blank" rel="noopener">vue 技术论坛</a>
       </li>
+      
+      <li>
+        <a href="https://www.upnews.cn/" target="_blank" rel="noopener">城市规划</a>
+      </li>
     </ul>
     ------------------------------------------英语网站------------------------------------------
        <!-------------------英语网站------------------>
@@ -148,6 +168,9 @@
       <li>
         <a href="https://91aitools.com/" target="_blank" rel="noopener">AI</a>
       </li>
+      <li>
+        <a href="https://deepwiki.com/" target="_blank" rel="noopener">deepwiki</a>
+      </li>
     </ul>
 
     <!---相关项目记录-->
@@ -161,8 +184,13 @@
 <script>
 export default {
   name: 'HelloWorld',
-  props: {
-    msg: String
+  // props: {
+  //   msg: String
+  // }
+  data() {
+    return {
+      showAvsInfo: false
+    }
   }
 
 }
@@ -171,6 +199,63 @@ export default {
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
+.section-header {
+  display: flex;
+  justify-content: center; /* 新增：两端对齐 */
+  align-items: center;
+  margin-bottom: 15px;
+  position: relative; /* 新增：为绝对定位提供参照 */
+}
+ 
+.info-btn {
+  padding: 2px 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  background: white;
+  cursor: pointer;
+  font-size: 14px;
+  transition: all 0.3s;
+}
+ 
+.info-btn:hover {
+  background: #f0f0f0;
+  transform: scale(1.05);
+}
+ 
+.modal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.5);
+  z-index: 1000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+ 
+.modal-content {
+  background: white;
+  padding: 20px;
+  border-radius: 8px;
+  min-width: 300px;
+  position: relative;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+ 
+.close {
+  position: absolute;
+  right: 15px;
+  top: 10px;
+  font-size: 24px;
+  cursor: pointer;
+  color: #666;
+}
+ 
+.close:hover {
+  color: #333;
+}
 .container {
   display: flex;
 }

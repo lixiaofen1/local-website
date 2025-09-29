@@ -85,6 +85,8 @@
     bot相关：
     [https://github.com/MaiM-with-u/MaiBot?tab=readme-ov-file](https://github.com/MaiM-with-u/MaiBot?tab=readme-ov-file)
 
+    英语交流网站
+    https://forum.freemdict.com/c/freetalk/9
 
     组件资源
     1、vant
@@ -102,7 +104,8 @@
       3、web3.py
       https://github.com/WTFAcademy/WTF-web3py
       4、live Code editor
-      <iframe width="100%" height="700px" src="https://stackblitz.com/edit/vitejs-vite-aksddx?embed=1&file=main.js&showSidebar=1"></iframe>
+      <!-- 改行代码放入到界面中可以获取一个在线的编辑器 -->
+      <!-- <iframe width="100%" height="700px" src="https://stackblitz.com/edit/vitejs-vite-aksddx?embed=1&file=main.js&showSidebar=1"></iframe> -->
       5、合约代码
       https://etherscan.io/address/0x1f9840a85d5af5bf1d1762f925bdaddc4201f984#code
 
@@ -115,6 +118,9 @@
       https://github.com/Aishwarya-Rajasekaran
       
 
+      game:
+      1、https://www.gcores.com/
+      
     </div>
   </template>
   <script>
